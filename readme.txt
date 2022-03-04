@@ -1,0 +1,1 @@
+App dùng mysql nên file .sql là của mysql
